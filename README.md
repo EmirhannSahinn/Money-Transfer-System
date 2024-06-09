@@ -109,3 +109,17 @@ Finally, I developed the view required for the customer to perform money transfe
     <td><img src="https://raw.githubusercontent.com/EmirhannSahinn/Money-Transfer-System/main/items/transfer-money.png" alt="transfer-money" /></td>
  </tr>
 </table>
+## Index Page and Starting Project
+
+### Index Page
+
+I created an Index page where the customer can see the entire customer list and manage account additions, edits and deletions, as well as transfer money. While creating this page, I used razor notation to ensure that the information for each of the fake customers created with the Bogus plugin appears in the same format. 
+<table border="0">
+ <tr>
+    <td><img src="https://raw.githubusercontent.com/EmirhannSahinn/Money-Transfer-System/main/items/carbon11.png" alt="carbon10" style="zoom:50%;" /></td>
+    <td><img src="https://raw.githubusercontent.com/EmirhannSahinn/Money-Transfer-System/main/items/customer-list.png" alt="transfer-money" /></td>
+ </tr>
+</table>
+### Money Transfer System Starting and Error Messages
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cN0PbWHESI4?si=FSRX8bp-eXC5JnhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
