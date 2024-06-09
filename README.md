@@ -111,8 +111,8 @@ Finally, I developed the view required for the customer to perform money transfe
 </table>
 
 
-### Index Page
-## Final
+
+## Index Page and Starting Project
 
 ### Index Page
 
