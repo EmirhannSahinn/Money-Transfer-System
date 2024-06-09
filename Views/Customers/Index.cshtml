@@ -1,0 +1,41 @@
+﻿@model List<Customer>
+
+Customer List
+
+<table class="table table-sm table-dark">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Money</th>
+        <th>Actions</th>
+    </tr>
+
+    @{
+        foreach (var customer in Model)
+        {
+            <tr>
+                <td>@customer.Id</td>
+                <td>@customer.Name</td>
+                <td>@customer.Email</td>
+                <td>@customer.Money.ToString("C", System.Globalization.CultureInfo.GetCultureInfo("en-US"))</td>
+                <td style="width:250px">
+                    <a asp-controller="Customers" asp-action="Create" class="btn btn-sm btn-primary">Create</a>
+                    <a asp-controller="Customers" asp-action="Edit" asp-route-customerId="@customer.Id" class="btn btn-sm btn-success">Edit</a>
+                    <a onclick="Delete('@customer.Id')" class="btn btn-sm btn-danger">Delete</a>
+                    <a asp-controller="Customers" asp-action="Transfer" asp-route-customerId="@customer.Id" class="btn btn-sm btn-warning">Transfer</a>
+
+                </td>
+            </tr>
+        }
+    }
+
+</table>
+
+<script>
+    function Delete(customerId) {
+        if (confirm("Are you sure to delete this record?")) { 
+            window.location = "/Customers/Delete?customerId="+customerId;
+        }
+    }
+</script>
