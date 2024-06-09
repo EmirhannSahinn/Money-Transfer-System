@@ -93,5 +93,19 @@ After completing the deletion process, I used the`return RedirectToAction(“Ind
 
 ## Money Transferring Operations
 
-First of all, I created a class called TransferModel in the Models folder to model the transfer process. Then I added the information of the customer sending the money, the information of the customer receiving the money and how much money will be sent in the money transfer to be found in this model.
+First of all, I created a class named TransferModel in the Models folder to model the transfer process. Then, I added the information of the customer who sends the money, the information of the customer who receives the money and how much money will be sent in the money transfer to be found in this model. I used labels for the rules that the parameters I added are mandatory and “Amount” is greater than 0.
 
+<img src="https://raw.githubusercontent.com/EmirhannSahinn/Money-Transfer-System/main/items/carbon8.png" alt="carbon8" style="zoom:50%;" />
+
+Thirdly, I defined the Transfer Action to transfer money in the CustomersController. While doing this, I checked whether the customer to send the money and the customer Ids to receive the money in the TransferModel are present in the customer list; I also checked whether the value of the money to be sent is greater than the value of the money in the customer's account.  
+
+<img src="https://raw.githubusercontent.com/EmirhannSahinn/Money-Transfer-System/main/items/carbon9.png" alt="carbon9" style="zoom:50%;" />
+
+Finally, I developed the view required for the customer to perform money transfer transactions in the `Transfer`View I created in the Views folder.
+
+<table border="0">
+ <tr>
+    <td><img src="https://raw.githubusercontent.com/EmirhannSahinn/Money-Transfer-System/main/items/carbon10.png" alt="carbon10" style="zoom:50%;" /></td>
+    <td><img src="https://raw.githubusercontent.com/EmirhannSahinn/Money-Transfer-System/main/items/transfer-money.png" alt="transfer-money" /></td>
+ </tr>
+</table>
