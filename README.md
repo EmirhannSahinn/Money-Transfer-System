@@ -122,4 +122,4 @@ I created an Index page where the customer can see the entire customer list and 
 </table>
 ### Money Transfer System Starting and Error Messages
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cN0PbWHESI4?si=FSRX8bp-eXC5JnhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+You can access the screen recording I made about the project startup and error messages from the video [here](https://youtu.be/cN0PbWHESI4).
