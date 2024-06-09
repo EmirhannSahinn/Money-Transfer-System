@@ -81,7 +81,7 @@ Instead of testing my work with the static test data I created, I developed a Mo
 
 
 
-When creating the fake data, I used the documentation [here](https://wildermuth.com/2023/01/29/generating-sample-data-with-bogus/) and added the rules that the customer's “Email” information should contain the name information and the “Money” information should be between 100,000-500,000.
+When creating the fake data, I used the documentation <a href="https://wildermuth.com/2023/01/29/generating-sample-data-with-bogus/" target="_blank">here</a> and added the rules that the customer's “Email” information should contain the name information and the “Money” information should be between 100,000-500,000.
 
 ### Deleting A Customer Account
 
