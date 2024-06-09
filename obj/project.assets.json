@@ -49,11 +49,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emirhan-Sahin\\Desktop\\wingie_enuygun_case\\money_transfer_system\\money_transfer_system.csproj",
+      "projectUniqueName": "C:\\Users\\Emirhan-Sahin\\Desktop\\wingie_enuygun_case\\Money-Transfer-System\\money_transfer_system.csproj",
       "projectName": "money_transfer_system",
-      "projectPath": "C:\\Users\\Emirhan-Sahin\\Desktop\\wingie_enuygun_case\\money_transfer_system\\money_transfer_system.csproj",
+      "projectPath": "C:\\Users\\Emirhan-Sahin\\Desktop\\wingie_enuygun_case\\Money-Transfer-System\\money_transfer_system.csproj",
       "packagesPath": "C:\\Users\\Emirhan-Sahin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emirhan-Sahin\\Desktop\\wingie_enuygun_case\\money_transfer_system\\obj\\",
+      "outputPath": "C:\\Users\\Emirhan-Sahin\\Desktop\\wingie_enuygun_case\\Money-Transfer-System\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Emirhan-Sahin\\AppData\\Roaming\\NuGet\\NuGet.Config",

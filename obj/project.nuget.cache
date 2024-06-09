@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eGVOstA/vtc=",
+  "dgSpecHash": "DMBueN0g+z4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Emirhan-Sahin\\Desktop\\wingie_enuygun_case\\money_transfer_system\\money_transfer_system.csproj",
+  "projectFilePath": "C:\\Users\\Emirhan-Sahin\\Desktop\\wingie_enuygun_case\\Money-Transfer-System\\money_transfer_system.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Emirhan-Sahin\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512"
   ],
