@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("money_transfer_system")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29a38642354b64e07150fe8d6c0c4de1ce20f91e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e90b6230ae9fe56beb7cca711184db4b7fec0a0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("money_transfer_system")]
 [assembly: System.Reflection.AssemblyTitleAttribute("money_transfer_system")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
